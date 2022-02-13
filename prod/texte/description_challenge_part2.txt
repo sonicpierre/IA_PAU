@@ -1,0 +1,5 @@
+A l’aide d’outils d’apprentissage supervisé et/ou non-supervisé,
+vous devrez proposer une solution afin de détecter si les documents
+pdf fournis en annexes contiennent ou non des ZOI. L’objectif final 
+sera d’obtenir une solution qui dépassera les performances de la 
+solution actuelle.

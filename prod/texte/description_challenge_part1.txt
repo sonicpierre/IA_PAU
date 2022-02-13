@@ -1,0 +1,5 @@
+En 2019, le site de Capgemini PAU a démarré un projet de R&D dont 
+l’une des missions portait sur l’automatisation de la récupération 
+des ZOI. Leur bonne détection est complexe mais primordiale car les
+données historiques sont rares et des données en moins entraînent une
+perte de précision dans les prédictions.
