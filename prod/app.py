@@ -10,7 +10,7 @@ from preprocessing_mod import text_preprocessing, text_to_model, text_preprocess
 from pdf2image import convert_from_path
 import os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/virgaux/IA_PAU_2022/iapau-3afbf-firebase-adminsdk-oag2r-2368a91e22.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/virgaux/IA_Pau/iapau-3afbf-firebase-adminsdk-oag2r-2368a91e22.json"
 texte = ""
 
 col1, col2 = st.columns([2, 4])
