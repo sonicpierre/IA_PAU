@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+streamlit
+nltk
+pdf2image
+google-cloud
+google-cloud-storage
